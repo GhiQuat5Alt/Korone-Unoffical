@@ -8,4 +8,4 @@ You cannot have free Robux like BLOXSDROP or BLOXDROPE.
 
 ---
 ## Why isn't it working?
-You need to install Korone Windows first. Rename the file, your version name should look like this: version-abcdefghijklmnopqrstu (e.g. version-cde8fee1a1e747d4)
+You need to install Korone Windows first. Download the zip file and extract. Then, rename the file, your version name should look like this: version-abcdefghijklmnopqrstu (e.g. version-cde8fee1a1e747d4)
